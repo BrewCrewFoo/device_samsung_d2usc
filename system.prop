@@ -15,6 +15,7 @@ DEVICE_PROVISIONED=1
 telephony.lteOnCdmaDevice=1
 ro.config.svlte1x=true
 persist.radio.no_wait_for_card=0
+telephony.sms.pseudo_multipart=1
 persist.radio.snapshot_enabled=1
 persist.radio.snapshot_timer=22
 ro.config.combined_signal=true
